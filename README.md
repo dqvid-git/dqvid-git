@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @dqvid-git
-- 👀 I’m interested in code.
-- 🌱 I’m currently learning english.
-- 💞️ I’m looking to collaborate on github.
-- 📫 How to reach me?
+Where is the exit?
